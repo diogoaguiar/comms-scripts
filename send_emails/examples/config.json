@@ -1,0 +1,7 @@
+{
+    "email": "service@example.com",
+    "password": "secure-passowrd",
+    "from_email": "Service <noreply@example.com>",
+    "subject": "Some email subject",
+    "email_type": "html"
+}
